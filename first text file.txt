@@ -1,3 +1,9 @@
 Ankit Singh 
 happy diwali
+<<<<<<< Updated upstream
 to everyone
+=======
+to everyone
+on 19oct thanks
+Hello to everyone
+>>>>>>> Stashed changes
