@@ -1,3 +1,9 @@
 Ankit Singh
 Ajit Singh
+<<<<<<< HEAD
 Ankur kumar
+=======
+Ankur kumar
+ravi pratap singh
+what is happening
+>>>>>>> e613e5d... snekrovkoe io
